@@ -13,12 +13,12 @@
 - [ ] Investments
 
 ### Insurance
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Health insurance
+- [ ] Dental insurance
+- [ ] Vision insurance
+- [ ] Life insurance
+- [ ] Car insurance
+- [ ] Homeowner/Renter's insurance
 
 ### Utilities and Home Services
 - [ ] 
