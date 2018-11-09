@@ -3,6 +3,7 @@ This checklist should be used as a guideline. It is focused on an individual mov
 
 ### Essentials
 - [ ] Post office: Set up forwarding address.
+  - [USPS change of address](USPS.com/move)
 - [ ] Employer: Paychecks, tax forms, etc.
 
 ### Finances
@@ -23,7 +24,7 @@ This checklist should be used as a guideline. It is focused on an individual mov
 
 ### Utilities and home services
 - [ ] Power
-- [ ] Water
+- [ ] Water/sewage
 - [ ] Gas
 - [ ] Internet/TV (cable, satellite, etc.)
 - [ ] Garbage
@@ -51,11 +52,17 @@ This checklist should be used as a guideline. It is focused on an individual mov
 
 ### Government agencies
 - [ ] Department/Registry of Motor Vehicles (DMV)
+  - [Contact your state (US) agency](https://www.usa.gov/states-and-territories)
 - [ ] Internal revenue services (IRS)
+  - [IRS change of address](https://www.irs.gov/faqs/irs-procedures/address-changes)
 - [ ] Voter registration
-- [ ] Social Security
+  - [Contact your state election office](https://www.eac.gov/voters/register-and-vote-in-your-state/)
+- [ ] Social Security Administration (SSA)
+  - [SSA change of address](http://www.socialsecurity.gov/myaccount/)
 - [ ] Citizenship and Immigration Services
+  - [USCIS change of address](https://www.uscis.gov/addresschange)
 - [ ] Department of Veteran Affairs (VA)
+  - [VA change of address](https://iris.custhelp.com/app/answers/detail/a_id/3045/)
 
 ### Online services
 - [ ] Shopping (Amazon, etc.)
