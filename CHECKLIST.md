@@ -1,6 +1,20 @@
 # Change of address checklist
 This checklist should be used as a guideline. It is focused on an individual moving from within the United States (US) to another location within the US, though many items should be applicable to those in other countries as well.
 
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+	- [Essentials](#essentials)
+	- [Finances](#finances)
+	- [Insurance](#insurance)
+	- [Utilities and home services](#utilities-and-home-services)
+	- [People](#people)
+	- [Memberships and subscriptions](#memberships-and-subscriptions)
+	- [Government agencies](#government-agencies)
+	- [Online services](#online-services)
+	- [Miscellaneous](#miscellaneous)
+
+<!-- /TOC -->
+
 ### Essentials
 - [ ] Post office: Set up forwarding address.
   - [USPS change of address](USPS.com/move)
