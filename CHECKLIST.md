@@ -1,4 +1,4 @@
-# Change of Address Checklist
+# Change of address checklist
 
 ### Essentials
 - [ ] Post office: Set up forwarding address.
@@ -20,13 +20,15 @@
 - [ ] Car insurance
 - [ ] Homeowner/Renter's insurance
 
-### Utilities and Home Services
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+### Utilities and home services
+- [ ] Power
+- [ ] Water
+- [ ] Gas
+- [ ] Internet / TV (cable, satellite, etc.)
+- [ ] Garbage
+- [ ] Cell phone
+- [ ] Lawn care
+- [ ] Cleaning service
 
 ### People
 - [ ] 
@@ -36,7 +38,7 @@
 - [ ] 
 - [ ] 
 
-### Memberships and Subscriptions
+### Memberships and subscriptions
 - [ ] 
 - [ ] 
 - [ ] 
@@ -44,7 +46,7 @@
 - [ ] 
 - [ ] 
 
-### Government Agencies
+### Government agencies
 - [ ] 
 - [ ] 
 - [ ] 
@@ -52,8 +54,8 @@
 - [ ] 
 - [ ] 
 
-### Online Services
-- [ ] 
+### Online services
+- [ ] UPS/FedEx?
 - [ ] 
 - [ ] 
 - [ ] 
