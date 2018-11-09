@@ -1,4 +1,5 @@
 # Change of address checklist
+This checklist should be used as a guideline. It is focused on an individual moving from within the United States (US) to another location within the US, though many items should be applicable to those in other countries as well.
 
 ### Essentials
 - [ ] Post office: Set up forwarding address.
