@@ -32,6 +32,7 @@ This checklist should be used as a guideline. It is focused on an individual mov
 - [ ] Cell phone
 - [ ] Lawn care
 - [ ] Cleaning service
+- [ ] Pool care
 
 ### People
 - [ ] Doctor(s)
@@ -39,7 +40,7 @@ This checklist should be used as a guideline. It is focused on an individual mov
 - [ ] Children's physician
 - [ ] Veterinarian
 - [ ] Lawyer
-- [ ] Babysitter
+- [ ] Babysitter/daycare
 - [ ] Friends and family
 
 ### Memberships and subscriptions
