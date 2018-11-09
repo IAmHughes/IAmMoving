@@ -1,15 +1,15 @@
 # Change of Address Checklist
 
 ### Essentials
-- [ ] Post Office: Set up forwarding address.
+- [ ] Post office: Set up forwarding address.
 - [ ] Employer: Paychecks, tax forms, etc.
 
 ### Finances
-- [ ] Bank/Credit Union
-- [ ] Loan Issuers (Vehicle, mortgage, personal loans, etc.)
-- [ ] Credit Cards
-- [ ] Student Loans
-- [ ] Financial Aid
+- [ ] Bank/Credit union
+- [ ] Loan issuers (vehicle, mortgage, personal loans, etc.)
+- [ ] Credit cards
+- [ ] Student loans
+- [ ] Financial aid
 - [ ] Investments
 
 ### Insurance
