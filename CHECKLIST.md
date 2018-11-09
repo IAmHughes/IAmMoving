@@ -39,12 +39,14 @@
 - [ ] Babysitter
 
 ### Memberships and subscriptions
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Retail clubs (Costco, Sam's club, etc.)
+- [ ] Churches
+- [ ] Scouts / youth organizations
+- [ ] Parent teacher associations
+- [ ] Magazines
+- [ ] Subscription boxes (Lootcrate, etc.)
+- [ ] Gym (do they have a location near your new address?)
+- [ ] Professional organizations (CompTIA, etc)
 
 ### Government agencies
 - [ ] 
