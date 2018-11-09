@@ -24,7 +24,7 @@
 - [ ] Power
 - [ ] Water
 - [ ] Gas
-- [ ] Internet / TV (cable, satellite, etc.)
+- [ ] Internet/TV (cable, satellite, etc.)
 - [ ] Garbage
 - [ ] Cell phone
 - [ ] Lawn care
@@ -41,7 +41,7 @@
 ### Memberships and subscriptions
 - [ ] Retail clubs (Costco, Sam's club, etc.)
 - [ ] Churches
-- [ ] Scouts / youth organizations
+- [ ] Scouts/youth organizations
 - [ ] Parent teacher associations
 - [ ] Magazines
 - [ ] Subscription boxes (Lootcrate, etc.)
@@ -49,25 +49,18 @@
 - [ ] Professional organizations (CompTIA, etc)
 
 ### Government agencies
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Department/Registry of Motor Vehicles (DMV)
+- [ ] Internal revenue services (IRS)
+- [ ] Voter registration
+- [ ] Social Security
+- [ ] Citizenship and Immigration Services
+- [ ] Department of Veteran Affairs (VA)
 
 ### Online services
-- [ ] UPS/FedEx?
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Shopping (Amazon, etc.)
+- [ ] Steaming services (Netflix, Hulu, etc.)
+- [ ] Mapping services (Google Maps, Apple Maps, etc.)
+- [ ] Package notifications (UPS, FedEx, etc.)
 
 ### Miscellaneous
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 - [ ] 
