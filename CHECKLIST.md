@@ -31,12 +31,12 @@
 - [ ] Cleaning service
 
 ### People
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Doctor(s)
+- [ ] Dentist
+- [ ] Children's physician
+- [ ] Veterinarian
+- [ ] Lawyer
+- [ ] Babysitter
 
 ### Memberships and subscriptions
 - [ ] 
