@@ -13,6 +13,7 @@ This checklist should be used as a guideline. It is focused on an individual mov
 - [ ] Student loans
 - [ ] Financial aid
 - [ ] Investments
+- [ ] Online or app-based payments (PayPal, Venmo, Square, etc.)
 
 ### Insurance
 - [ ] Health insurance
@@ -39,6 +40,7 @@ This checklist should be used as a guideline. It is focused on an individual mov
 - [ ] Veterinarian
 - [ ] Lawyer
 - [ ] Babysitter
+- [ ] Friends and family
 
 ### Memberships and subscriptions
 - [ ] Retail clubs (Costco, Sam's club, etc.)
@@ -65,7 +67,7 @@ This checklist should be used as a guideline. It is focused on an individual mov
   - [VA change of address](https://iris.custhelp.com/app/answers/detail/a_id/3045/)
 
 ### Online services
-- [ ] Shopping (Amazon, etc.)
+- [ ] Shopping (Amazon, eBay, etc.)
 - [ ] Steaming services (Netflix, Hulu, etc.)
 - [ ] Mapping services (Google Maps, Apple Maps, etc.)
 - [ ] Package notifications (UPS, FedEx, etc.)
