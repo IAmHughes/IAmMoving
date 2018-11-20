@@ -3,7 +3,7 @@ This checklist should be used as a guideline. It is focused on an individual mov
 
 ### Essentials
 - [ ] Post office: Set up forwarding address.
-  - [USPS change of address](USPS.com/move)
+  - [USPS change of address](http://www.USPS.com/move)
 - [ ] Employer: Paychecks, tax forms, etc.
 
 ### Finances
