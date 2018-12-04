@@ -51,7 +51,7 @@ This checklist should be used as a guideline. It is focused on an individual mov
 - [ ] Magazines
 - [ ] Subscription boxes (Lootcrate, etc.)
 - [ ] Gym (do they have a location near your new address?)
-- [ ] Professional organizations (CompTIA, etc)
+- [ ] Professional organizations (CompTIA, IEEE, etc)
 
 ### Government agencies
 - [ ] Department/Registry of Motor Vehicles (DMV)
