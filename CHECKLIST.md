@@ -74,4 +74,4 @@ This checklist should be used as a guideline. It is focused on an individual mov
 - [ ] Package notifications (UPS, FedEx, etc.)
 
 ### Miscellaneous
-- [ ] WIP
+- [ ] License to Carry / Concealed Carry Permits
