@@ -12,7 +12,7 @@ See also the list of [contributors](https://github.com/IAmHughes/IAmMoving/contr
 ## License
 This project is licensed under the GNU GPLv3 License - see the [LICENSE](https://github.com/IAmHughes/IAmMoving/blob/master/LICENSE) file for details
 
-## Acknowledgments
+## Acknowledgments and inspiration
 - [Lifehacker.com article](https://lifehacker.com/change-your-address-everywhere-on-this-printable-checkl-1756811578)
 - [Moving.com article](https://www.moving.com/tips/change-address-checklist-who-to-notify-when-you-move/)
 - [HGTV moving article](https://www.hgtv.com/design/real-estate/moving-black-book--the-people-you-should-tell)
