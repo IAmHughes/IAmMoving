@@ -2,7 +2,7 @@
 A [checklist](https://github.com/IAmHughes/IAmMoving/blob/master/CHECKLIST.md) to remind you of all the places you should update when you are moving.
 
 ## Contributing
-Please read [CONTRIBUTING.md](https://github.com/IAmHughes/IAmMoving/blob/master/.github/CONTRIBUTING.md) for details on the code of conduct, and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](https://github.com/IAmHughes/IAmMoving/blob/master/.github/CONTRIBUTING.md) for details on the code of conduct, and the process for submitting pull requests to the project.
 
 ## Authors
 - **Thomas Hughes** - *Initial Work* - [@IAmHughes](https://GitHub.com/IAmHughes)
